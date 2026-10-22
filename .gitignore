@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+.env
+*.pt
+*.onnx
+*.engine
+data/processed/
+reports/*.csv
+reports/*.mp4
+.streamlit/secrets.toml
